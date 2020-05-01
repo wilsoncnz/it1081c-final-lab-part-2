@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="empathy.desktop" open-window-count="0" score="0" last-seen="1588300863"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="15" last-seen="1588358754"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="21568.158203125" last-seen="1588358901"/>
+    <application id="org.gnome.Weather.Application.desktop" open-window-count="0" score="1" last-seen="1588300816"/>
+    <application id="firewall-config.desktop" open-window-count="0" score="0.3125" last-seen="1586912422"/>
+    <application id="firefox.desktop" open-window-count="0" score="19.5" last-seen="1588358897"/>
+  </context>
+</application-state>
